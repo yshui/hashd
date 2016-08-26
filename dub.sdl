@@ -1,0 +1,6 @@
+name "hashd"
+description "Library re-implementation of D's associative array"
+authors "Yuxuan Shui"
+copyright "Copyright © 2016, Yuxuan Shui <yshuiv7@gmail.com>"
+license "MPL-2.0"
+targetType "library"
